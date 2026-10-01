@@ -1,0 +1,6 @@
+Challenge Portal — sample attachment
+
+This is a harmless plain-text file for the interview demonstration.
+The three-character code for Challenge 1 is: 123
+
+Enter exactly those three characters in the answer field.
